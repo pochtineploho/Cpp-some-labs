@@ -1,0 +1,11 @@
+1
+Unis 4 4
+BOOL bo_there TRUE FALSE FALSE FALSE 
+INT id 1 2 3 4 
+DOUBLE ege 307 270 240 290 
+VARCHAR 20 name "ITMO" "SPBGU" "SPBGUT" "VSE" 
+id name ege bo_there 
+1 id 
+bo_there 1 ege 1 id 1 name 1 
+0
+

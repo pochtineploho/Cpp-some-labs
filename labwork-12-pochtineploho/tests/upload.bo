@@ -1,0 +1,20 @@
+2
+Students 3 5
+INT id 367917 239239 123123 967231 234561 
+FLOAT programming 89.9 4.5 98.999 93 3.8 
+VARCHAR 20 name "Bo" "Nikita" "Sveta" "Tolik" "Vlad" 
+id name programming 
+1 id 
+id 1 name 1 programming 1 
+0
+
+Unis 4 4
+BOOL bo_there TRUE FALSE FALSE FALSE 
+INT id 1 2 3 4 
+DOUBLE ege 307 270 240 290 
+VARCHAR 20 name "ITMO" "SPBGU" "SPBGUT" "VSE" 
+id name ege bo_there 
+1 id 
+bo_there 1 ege 1 id 1 name 1 
+0
+

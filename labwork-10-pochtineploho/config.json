@@ -1,0 +1,10 @@
+{
+  "cities": ["Saint P", "London"],
+  "api": "yf4nAuPRfa2QcdMn1X0cUw==qXVheDOf1RiNJf2R",
+  "frequency": 10,
+  "details": "default",
+  "forecast_days": 3,
+  "past_days": 0,
+  "current_weather": true,
+  "storage" : "D:/CLion/labwork-10-pochtineploho/cmake-build-debug/jsons"
+}

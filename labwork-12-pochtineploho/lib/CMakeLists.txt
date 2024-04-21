@@ -1,0 +1,1 @@
+add_library(MyCoolDB MyCoolDB.cpp MyCoolDB.h DataBase.cpp DataBase.h)
